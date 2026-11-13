@@ -8,7 +8,7 @@ A trip-planning workspace for a January 2027 group ski trip to Whistler Blackcom
 
 - `TRIP-PLAN.md` — **single source of truth.** Goal, open questions, decisions log, participants, itinerary, logistics, budget, pricing worksheets (§7a-7c), session log. Read it first and update it every session.
 - `Specifics.md` — the owner's original trip parameters (levels, dates, origin, lodging preferences, notes).
-- `PROMPTS.md` — verbatim log of every user prompt.
+- `PROMPTS.md` — verbatim log of every user prompt. **Local only: untracked and listed in `.gitignore`. Never commit or push it.**
 
 ## Standing rules
 
@@ -26,6 +26,6 @@ A trip-planning workspace for a January 2027 group ski trip to Whistler Blackcom
 
 ## Git
 
-- Remote: private GitHub repo `origin` (`main`). History was squashed once to remove names; it is a normal linear history now.
+- Remote: private GitHub repo `origin` (`main`). History was squashed once to remove names; old `PROMPTS.md` versions remain in history after that.
 - Commit author must use the GitHub noreply email already set in this repo's local git config, or pushes are rejected (GH007 private-email protection). Do not change global git config.
-- Commit and push `PROMPTS.md` and `TRIP-PLAN.md` after changes; commit messages end with the attribution line given in the session instructions.
+- Commit and push `TRIP-PLAN.md` (and other tracked files) after changes; commit messages end with the attribution line given in the session instructions.
