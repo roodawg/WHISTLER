@@ -57,6 +57,8 @@ Append every new user prompt here (newest at the bottom) before acting on it.
 
 19. > Update the README file
 
+20. > let's remove the prompts link from the README. I may also remove the prompts file and just keep it locally. Good idea?
+
 _Participant names and the GitHub username were redacted from this log on 2026-11-12 at the owner's request._
 
 _Earlier sessions (2026-09-01 and 2026-10-04): prompts were not logged verbatim. Their outcomes are captured in TRIP-PLAN.md and Specifics.md._

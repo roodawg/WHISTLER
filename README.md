@@ -20,7 +20,6 @@ Planning workspace for a 6-day ski and snowboard trip to Whistler Blackcomb, BC.
 |---|---|
 | [`TRIP-PLAN.md`](TRIP-PLAN.md) | Source of truth: itinerary, logistics, open questions, decisions, pricing research |
 | [`Specifics.md`](Specifics.md) | Original trip parameters |
-| [`PROMPTS.md`](PROMPTS.md) | Log of every prompt used while planning |
 | [`CLAUDE.md`](CLAUDE.md) | Instructions for Claude Code sessions in this repo |
 
 ## Status
