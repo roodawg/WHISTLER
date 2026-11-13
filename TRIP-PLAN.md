@@ -41,6 +41,7 @@ If a choice does not serve bonding or regional enjoyment, it is cut (YAGNI).
 | 2026-11-01 | Bring own gear (no rental) | Per trip owner |
 | 2026-11-01 | Epic Local 10-day combined cap acknowledged | Per trip owner; 4 ski days is well within it |
 | 2026-11-01 | Plan assumes no rental car (shuttle from YVR) | Staying in the village; trip owner prefers no car |
+| 2026-11-12 | Go with lower-cost lodging: two units (3BR + 2BR) near lifts | Per trip owner: keep prices low; ~$861 pp vs ~$1,001+ for one 5BR house |
 | 2026-11-12 | Group is now 5 travelers (2 new intermediate skiers) | Per trip owner; affects lodging, shuttle, passes, grouping |
 
 ---
@@ -192,6 +193,53 @@ cheapest options (or send a screenshot) and I'll add them here.
 
 ---
 
+## 7c. Low-Cost Lodging Search (pulled 2026-11-12; Jan 24-29 2027; USD)
+
+Decision: go the **lower-cost route**, two units (3BR + 2BR) near the lifts, not one big house.
+Same caveats as §7b: summarizer-read Airbnb pages, taxes/fees may be excluded, distances come
+from listing text. Open each link and confirm bathrooms, sleeping arrangements and walk times.
+
+**Cheapest 2BR candidates with lift access (5-night total, 2 bath each)**
+
+| Listing | Total | Lift access | Rating |
+|---|---|---|---|
+| [Condo, AC, fireplace, 2-min walk to gondola](https://www.airbnb.com/rooms/1605306260706252023) | $1,796 | 2-min walk to gondola | 4.79 (115) |
+| [Apartment, renovated, near slopes](https://www.airbnb.com/rooms/1519667374744218678) | $1,782 | "Near slopes" (no lift named) | 4.86 (83) |
+| [Condo, mountain views, hot tub, in Village](https://www.airbnb.com/rooms/1289953753679560098) | $1,858 | In Village | 4.85 (203) |
+| [Townhouse, private hot tub, across from Village](https://www.airbnb.com/rooms/33397962) | $1,990 | Across from Village | 4.81 (93) |
+| [Condo, mountain views, 5-min walk to gondola](https://www.airbnb.com/rooms/1565391414408595337) | $2,092 | 5-min walk to gondola | 4.9 (77) |
+
+**Cheapest 3BR candidates with lift access (5-night total)**
+
+| Listing | Total | Lift access | Rating |
+|---|---|---|---|
+| [Apartment, slopeside at Blackcomb, 3BR/2BA](https://www.airbnb.com/rooms/31044987) | $2,510 | Slopeside, Blackcomb | 4.8 (41) |
+| [Townhouse, 3BR/2.5BA, 10-min walk to Blackcomb](https://www.airbnb.com/rooms/21717252) | $2,873 | 10-min walk | 4.82 (11) |
+| [Townhouse, ski-in/ski-out, 3BR/2BA](https://www.airbnb.com/rooms/1264926022715924292) | $3,138 | Ski-in/ski-out | 4.82 (33) |
+| [Townhouse, 3BR/2.5BA, steps from the Marketplace](https://www.airbnb.com/rooms/26989569) | $3,144 | Village North (no lift stated) | 4.78 (49) |
+| [Condo, 3BR/2BA, pool and sauna](https://www.airbnb.com/rooms/53009717) | $3,579 | Ski-in/ski-out | 4.91 (81) |
+
+**Cheapest combination found**
+- **[3BR slopeside at Blackcomb](https://www.airbnb.com/rooms/31044987) $2,510 + [2BR condo 2-min to the gondola](https://www.airbnb.com/rooms/1605306260706252023) $1,796 = $4,306, about $861 per person.**
+- Close alternative: same 3BR + the [near-slopes 2BR](https://www.airbnb.com/rooms/1519667374744218678) = $4,292 (~$858 pp).
+- These two units sit at different bases (Blackcomb/Upper Village vs Whistler Village). They are
+  likely a short walk apart, but that is **not confirmed**, so check the map before booking.
+- For comparison, the cheapest single 5BR house was ~$5,004 (~$1,001 pp), about $140 pp more, and
+  only "near village".
+
+**Hotels: no live quotes.** Booking.com, Whistler.com, Kayak and Expedia blocked or returned no
+Whistler data (HTTP 403/429 or empty). The web search only showed undated "from" prices and one
+guide saying luxury-oriented winter rates do not drop below ~$200/night. Rough estimate: 5 rooms x
+5 nights at ~$200-$400/night = $5,000-$10,000 total, **~$1,000-$2,000 pp**, so the condo pair above
+is very likely the cheapest option. Candidates named as budget Village hotels near the gondola
+that I could not price: Pinnacle Hotel Whistler Village, Mountainside Lodge, Embarc Whistler, Glacier
+Lodge, Summit Lodge. If the group wants a hotel quote, check these on the hotel sites for 1/24-1/29.
+
+**Next:** confirm both units' availability and guest capacity (5 guests across the two), decide who
+shares a bathroom, and get flights from Google Flights.
+
+---
+
 ## Session Log
 
 - **2026-09-01** — Kicked off planning. Set up this working doc + memory. Locked trip goal.
@@ -206,3 +254,4 @@ cheapest options (or send a screenshot) and I'll add them here.
 - **2026-11-01 (later)** — Searched flights and lodging pricing; no live quotes available for 1/24-1/29. Added rough Pricing Worksheet (§7a). Next: group pulls live quotes, then budget talk.
 - **2026-11-12** — Two more travelers invited (both intermediate skiers), group now 5. Updated participants, grouping, lodging, shuttle, and pricing notes. Next: confirm the new travelers' passes, then re-price lodging for 5.
 - **2026-11-12 (later)** — Pulled Airbnb quotes for 5 guests, Jan 24-29 (see §7b). Vrbo blocked, flights and hotels not quotable via tools. Next: verify shortlist links, get flight fares from Google Flights, decide lodging.
+- **2026-11-12 (later)** — Owner chose the lower-cost lodging route. Searched cheaper 2BR/3BR Airbnbs and hotels (§7c): best pair ~$4,306 total (~$861 pp); hotels not quotable. Next: verify the two units, get flights.
