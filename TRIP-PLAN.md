@@ -141,6 +141,57 @@ quotes can confirm.
 
 ---
 
+## 7b. Live Airbnb Quotes (pulled 2026-11-12, Jan 24-29 2027, 5 guests, USD)
+
+Source: Airbnb search pages, read through an automated summarizer. Treat as a shortlist, not a
+quote: totals may exclude taxes/fees, "lift access" comes from listing titles, and a few rows
+are priced for fewer nights (marked). **Open each link to confirm price, bedrooms, bathrooms and
+exact walk to the lift before deciding.** Vrbo blocked automated access (HTTP 429); Google
+Flights and Kayak returned no usable fares, so **flights are still unquoted** (see below).
+
+**Option B1: one 5-bedroom house (5 private bedrooms)**
+
+| Listing | 5-night total | Per person | Lift access (from listing) | Rating |
+|---|---|---|---|---|
+| [Luxury 5BR home, private hot tub, near village, parking](https://www.airbnb.com/rooms/1344373865458653000) | $5,004 | ~$1,001 | "Near village" (no distance; may need the free shuttle) | 4.7 (50) |
+| [Siri Family Chalet](https://www.airbnb.com/rooms/742763415001756003) | $4,837 | ~$967 | Not stated | 4.84 (190) |
+| [6BR Luxury, Whistler Village, Blueberry](https://www.airbnb.com/rooms/758150935949311324) | $7,538 | ~$1,508 | Whistler Village | 4.96 (45) |
+| [Luxe 5BR near village & slopes](https://www.airbnb.com/rooms/52621900) | $9,843 | ~$1,969 | Near village and slopes | 5.0 (10) |
+| [Ultimate ski-in/out, private hot tub, 5BR](https://www.airbnb.com/rooms/33160467) | $13,204 | ~$2,641 | Ski-in/ski-out | 4.79 (400) |
+| [Snowridge Haven, ski-in/out, 5BR](https://www.airbnb.com/rooms/1684937418405220715) | $12,316 | ~$2,463 | Ski-in/ski-out | n/a |
+| [Pinnacle Ridge 5BR, Upper Village, ski-in/out](https://www.airbnb.com/rooms/25077034) | $6,109 for **3 nights** only | confirm 5-night price | Upper Village, ski-in/out | 4.94 (16) |
+
+Cheapest ski-in/ski-out 5BR found is roughly $12-13k total (~$2,500 pp). The cheapest 5BRs are
+~$5k total but are only "near village", so verify the walk or shuttle before booking.
+
+**Option B2: two units in the same area (3BR + 2BR), no car, best lift access**
+
+| Unit | 5-night total | Lift access |
+|---|---|---|
+| [3BR apartment, hot tub/pool, Blackcomb slopeside](https://www.airbnb.com/rooms/31044987) | $2,510 | Ski-in access (Blackcomb base) |
+| 2BR condo, ski-in/ski-out, ~2 min to the gondola (listing link not captured) | $1,796 | Ski-in/ski-out |
+| [3BR condo, heated pool, sauna](https://www.airbnb.com/rooms/53009717) | $3,579 | Ski-in/ski-out |
+| 2BR condo, 5-min walk to the gondola (link not captured) | $1,986 | Walk to gondola |
+
+Example pair: 3BR ($2,510) + 2BR ($1,796) = **~$4,306 total, ~$861 pp**, if both are in the
+same complex or neighboring buildings. Not confirmed that any pair is adjacent; this is the
+cheapest route to five private bedrooms with ski access found.
+
+**By area (what the data suggests)**
+- **Blackcomb base / Upper Village:** most ski-in/ski-out condos and townhomes; best for no-car access to Blackcomb and a quick link to the village by foot or shuttle.
+- **Whistler Village:** walk to the gondola, restaurants and spa; 6BR Blueberry house is the standout group-sized option here.
+- **Creekside:** no Creekside-labeled results surfaced; check the Creekside gondola listings directly if you want a quieter base (it is a shuttle ride from the Village).
+- **Kadenwood / Nicklaus North / Lost Lake:** ski-in/out or golf-area luxury homes, mostly $12-38k; Nicklaus North and Lost Lake need a bus or car.
+
+**Recommendation to test first:** B2 (two ski-in/out units) for the best value/access, or the
+Whistler Village 6BR Blueberry house (~$1,508 pp) if you want everyone under one roof.
+
+**Flights (not quoted):** Google Flights and Kayak would not load fares through this tool. Run
+SFO to YVR, Sun 1/24 out, Fri 1/29 back, nonstop, 5 passengers on Google Flights and paste the
+cheapest options (or send a screenshot) and I'll add them here.
+
+---
+
 ## Session Log
 
 - **2026-09-01** — Kicked off planning. Set up this working doc + memory. Locked trip goal.
@@ -154,3 +205,4 @@ quotes can confirm.
 - **2026-11-01 (later)** — Roster corrected: the group is one advanced-intermediate snowboarder and two advanced skiers. Budget deferred to a group discussion.
 - **2026-11-01 (later)** — Searched flights and lodging pricing; no live quotes available for 1/24-1/29. Added rough Pricing Worksheet (§7a). Next: group pulls live quotes, then budget talk.
 - **2026-11-12** — Two more travelers invited (both intermediate skiers), group now 5. Updated participants, grouping, lodging, shuttle, and pricing notes. Next: confirm the new travelers' passes, then re-price lodging for 5.
+- **2026-11-12 (later)** — Pulled Airbnb quotes for 5 guests, Jan 24-29 (see §7b). Vrbo blocked, flights and hotels not quotable via tools. Next: verify shortlist links, get flight fares from Google Flights, decide lodging.

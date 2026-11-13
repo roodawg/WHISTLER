@@ -49,6 +49,8 @@ Append every new user prompt here (newest at the bottom) before acting on it.
 
 15. > We've invited 2 more people. Both are intermediate skiiers.
 
+16. > Pull live flight and lodging quotes. vrbo or airbnb in or near Whistler for 5 people with easy access to skiing. Examples of places that i am aware of, 'Whistler Village', 'Blackomb base/Upper Village', and 'Whistler Creekside'. We will not have a car so easy access to the mountain is important.
+
 _Participant names and the GitHub username were redacted from this log on 2026-11-12 at the owner's request._
 
 _Earlier sessions (2026-09-01 and 2026-10-04): prompts were not logged verbatim. Their outcomes are captured in TRIP-PLAN.md and Specifics.md._
