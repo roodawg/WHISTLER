@@ -47,6 +47,8 @@ Append every new user prompt here (newest at the bottom) before acting on it.
 
 14. > Remove my GitHub username from the log too
 
+15. > We've invited 2 more people. Both are intermediate skiiers.
+
 _Participant names and the GitHub username were redacted from this log on 2026-11-12 at the owner's request._
 
 _Earlier sessions (2026-09-01 and 2026-10-04): prompts were not logged verbatim. Their outcomes are captured in TRIP-PLAN.md and Specifics.md._
