@@ -30,3 +30,5 @@ units, passes for the two newest travelers, and the budget. See the open questio
 `TRIP-PLAN.md`.
 
 Prices in the plan are rough and unverified until marked otherwise.
+
+(plan is still on-going)
