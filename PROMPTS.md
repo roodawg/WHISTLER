@@ -37,7 +37,7 @@ Append every new user prompt here (newest at the bottom) before acting on it.
 9. > yes, start there
    > (context: reply to offer to price flights and lodging for Jan 24-29, hotel vs 3-bedroom condo)
 
-10. > Can this content be pushed to https://github.com/roodawg/WHISTLER?
+10. > Can this content be pushed to [GitHub repo URL]?
 
 11. > logged in to github. try again
 
@@ -45,6 +45,8 @@ Append every new user prompt here (newest at the bottom) before acting on it.
 
 13. > yes, rewrite history
 
-_Participant names were redacted from this log on 2026-11-12 at the owner's request._
+14. > Remove my GitHub username from the log too
+
+_Participant names and the GitHub username were redacted from this log on 2026-11-12 at the owner's request._
 
 _Earlier sessions (2026-09-01 and 2026-10-04): prompts were not logged verbatim. Their outcomes are captured in TRIP-PLAN.md and Specifics.md._
