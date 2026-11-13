@@ -53,6 +53,8 @@ Append every new user prompt here (newest at the bottom) before acting on it.
 
 17. > We want to keep prices low so let's go with the less expensive route. Include hotels in this search remembering our criteria of low prices and closeness to the resort
 
+18. > /init (create a CLAUDE.md for this repository)
+
 _Participant names and the GitHub username were redacted from this log on 2026-11-12 at the owner's request._
 
 _Earlier sessions (2026-09-01 and 2026-10-04): prompts were not logged verbatim. Their outcomes are captured in TRIP-PLAN.md and Specifics.md._
