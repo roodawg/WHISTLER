@@ -1,6 +1,6 @@
 ## Specifics
 - Participants: 5 friends (1 snowboarder, 4 skiers)
-- Levels: snowboarder is advanced intermediate; 2 skiers are advanced; 2 skiers are intermediate (the 2 newest travelers); the original three are in their late 50s
+- Levels: snowboarder is advanced intermediate; 2 skiers are advanced; 2 skiers are intermediate (the 2 newest travelers)
 - Dates: Sun Jan 24 to Fri Jan 29, 2027 (6 days, 5 nights)
 - Number of ski days: 4 (Mon-Thu), flexible
 - Web Site: https://www.whistlerblackcomb.com
