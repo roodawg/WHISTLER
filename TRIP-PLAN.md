@@ -42,6 +42,7 @@ If a choice does not serve bonding or regional enjoyment, it is cut (YAGNI).
 | 2026-11-01 | Epic Local 10-day combined cap acknowledged | Per trip owner; 4 ski days is well within it |
 | 2026-11-01 | Plan assumes no rental car (shuttle from YVR) | Staying in the village; trip owner prefers no car |
 | 2026-11-12 | Go with lower-cost lodging: two units (3BR + 2BR) near lifts | Per trip owner: keep prices low; ~$861 pp vs ~$1,001+ for one 5BR house |
+| 2026-11-13 | Airport shuttle: book Skylynx round trip YVR to Whistler (Sun 1/24 out, Fri 1/29 back, 5 passengers) | Per trip owner; cheapest option, ski gear policy fits |
 | 2026-11-12 | Group is now 5 travelers (2 new intermediate skiers) | Per trip owner; affects lodging, shuttle, passes, grouping |
 
 ---
@@ -88,7 +89,7 @@ and dinner. Dinner reservations should be for 5. 4 days of skiing use 4 of the 1
 
 ### Getting there (no rental car)
 - **Flight:** SFO→YVR nonstop on Air Canada and United (Flair also listed, bag fees add up). Round-trip fares were about $140–$200 USD in scattered sources; January is a low-fare month. Not a quote — price on Google Flights for 1/24 and 1/29.
-- **Ground:** Whistler Shuttle (door-to-village, winter 2025-26 was $120 one way / $216 round trip CAD, 2026-27 fares from ~$125 CAD reported; 15% off if booked by 11/15/2026 and 10% off round trips per the operator) ([Whistler Shuttle](https://www.ridebooker.com/transfers/yvr/whistler/whistler-shuttle)). Cheaper: Skylynx bus ([yvrskylynx.com](https://yvrskylynx.com/)), advertised $32 one way, unverified for winter 2026-27. With 5 people and 5 ski bags plus luggage, get a quote for a private van/shuttle (per-vehicle or per-person) and compare against 5 bus tickets; confirm bag capacity.
+- **Ground:** Whistler Shuttle (door-to-village, winter 2025-26 was $120 one way / $216 round trip CAD, 2026-27 fares from ~$125 CAD reported; 15% off if booked by 11/15/2026 and 10% off round trips per the operator) ([Whistler Shuttle](https://www.ridebooker.com/transfers/yvr/whistler/whistler-shuttle)). Cheaper: Skylynx bus ([yvrskylynx.com](https://yvrskylynx.com/)), advertised $32 one way, unverified for winter 2026-27. **Decision (2026-11-13): Skylynx bus, round trip, 5 passengers, booked online (owner has the booking link).** Skylynx's published summer/fall 2026 round-trip fare is $75 standard (non-refundable) or $79 flexible (refundable up to 24 hours before); the 2026/27 winter fares (winter season runs Nov 22, 2026 to Apr 19, 2027) were not visible through the booking page, so confirm the price at checkout. First set of skis or a snowboard is free per passenger; extra sets cost $10 each. Consider the flexible fare in case flights change. Book after flights are set so the shuttle times match arrival and departure.
 - **Rent a car?** Not recommended: village is walkable, free winter shuttle covers Village North, parking is extra, and the Sea-to-Sky Highway in winter needs winter tires/chains and careful driving. A car makes sense only if you want a Vancouver stopover or Squamish/Brandywine excursions. Revisit if you stay outside the village.
 
 ### Gear: bringing your own (decided)
@@ -255,3 +256,4 @@ shares a bathroom, and get flights from Google Flights.
 - **2026-11-12** — Two more travelers invited (both intermediate skiers), group now 5. Updated participants, grouping, lodging, shuttle, and pricing notes. Next: confirm the new travelers' passes, then re-price lodging for 5.
 - **2026-11-12 (later)** — Pulled Airbnb quotes for 5 guests, Jan 24-29 (see §7b). Vrbo blocked, flights and hotels not quotable via tools. Next: verify shortlist links, get flight fares from Google Flights, decide lodging.
 - **2026-11-12 (later)** — Owner chose the lower-cost lodging route. Searched cheaper 2BR/3BR Airbnbs and hotels (§7c): best pair ~$4,306 total (~$861 pp); hotels not quotable. Next: verify the two units, get flights.
+- **2026-11-13** — Owner chose Skylynx for the YVR to Whistler shuttle. Booking page would not load fares via tool; recorded published policy and decision.
