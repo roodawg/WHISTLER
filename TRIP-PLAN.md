@@ -241,6 +241,35 @@ shares a bathroom, and get flights from Google Flights.
 
 ---
 
+## 7d. Owner's Airbnb Search (pulled 2026-11-13; Jan 24-29 2027; 5 guests; USD)
+
+Owner supplied a filtered Airbnb search (144 homes; filter tag 681, which looks like a ski-in/ski-out
+style filter but is not named on the page). Only the first 24 were readable.
+
+**Data quality warning:** the same listing IDs appeared with different prices and descriptions than
+in §7c (e.g. one ID was $1,796 "2-min walk to gondola" earlier and $3,998 here). The summarizer
+itself said it matched URLs to cards by position. Treat IDs/links below as unconfirmed leads and
+trust the owner's own browser results over this table.
+
+Cheapest options in this pull (5-night totals):
+
+| Type | Total | Lift wording | Rating (reviews) | Listing |
+|---|---|---|---|---|
+| 2BR condo | $1,367 | Not stated | 4.97 (159) | /rooms/51893720 |
+| 2BR condo | $1,692 | Ski-in/ski-out | 4.82 (136) | /rooms/50932506 |
+| 2BR apartment | $1,781 | Not stated | 4.86 (83) | /rooms/722003835045594232 |
+| 2BR townhouse | $1,972 | Ski-in | 4.9 (30) | /rooms/36029069 |
+| 2BR townhouse (Superhost) | $1,989 | Ski-in | 4.81 (93) | /rooms/1039136285892332057 |
+| 3BR townhouse (Superhost) | $2,654 | Ski-in access | 4.82 (22) | /rooms/830484602874853531 |
+| 3BR townhouse | $3,122 | Ski-in/ski-out | 4.82 (33) | /rooms/1264926022715924292 |
+| 3BR condo, pool | $3,571 | Ski-in/ski-out | 4.91 (81) | /rooms/53009717 |
+
+Best pair here: 3BR $2,654 + 2BR $1,692 = **~$4,346 total, ~$869 per person**, essentially the same as the
+§7c pair (~$4,306). The lower-cost route still lands around $860-$870 per person. Next step: owner
+picks favorites from the live results and sends the links; Claude records them here.
+
+---
+
 ## Session Log
 
 - **2026-09-01** — Kicked off planning. Set up this working doc + memory. Locked trip goal.
@@ -257,3 +286,4 @@ shares a bathroom, and get flights from Google Flights.
 - **2026-11-12 (later)** — Pulled Airbnb quotes for 5 guests, Jan 24-29 (see §7b). Vrbo blocked, flights and hotels not quotable via tools. Next: verify shortlist links, get flight fares from Google Flights, decide lodging.
 - **2026-11-12 (later)** — Owner chose the lower-cost lodging route. Searched cheaper 2BR/3BR Airbnbs and hotels (§7c): best pair ~$4,306 total (~$861 pp); hotels not quotable. Next: verify the two units, get flights.
 - **2026-11-13** — Owner chose Skylynx for the YVR to Whistler shuttle. Booking page would not load fares via tool; recorded published policy and decision.
+- **2026-11-13 (later)** — Reviewed owner's Airbnb search link (§7d). Pair estimate ~$869 pp, consistent with §7c; flagged inconsistent listing data. Next: owner picks favorites.
